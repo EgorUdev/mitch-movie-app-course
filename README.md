@@ -1,2 +1,2 @@
-# mitch-movie-app-course
-Espresso exercises from course https://codingwithmitch.com/courses/ui-testing-for-beginners 
+# mitch-movie-app
+Espresso exercises for Mitch movie app
